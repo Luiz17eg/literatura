@@ -24,9 +24,17 @@ Actualmente, el proyecto se encuentra en fase de desarrollo activo.
 
 ## Demostración de Funciones y Aplicaciones
 
-![1](https://github.com/Luiz17eg/conversormonedasapi/assets/85706841/519ca12e-e1a6-45e2-ac95-0f7a63b8c45c)
+![01](https://github.com/Luiz17eg/literatura/assets/85706841/127e6068-470b-4ee5-8a28-8b6cd58c8adf)
+![02](https://github.com/Luiz17eg/literatura/assets/85706841/958791aa-213a-4a49-98b4-2d025316c744)
+![03](https://github.com/Luiz17eg/literatura/assets/85706841/f4380689-b3bd-4e69-b040-6a3cbb050baf)
+![04](https://github.com/Luiz17eg/literatura/assets/85706841/8d0d48a9-877f-4e59-923e-d971ba8cc67f)
+![05](https://github.com/Luiz17eg/literatura/assets/85706841/4c89bd50-644e-4722-b5fc-62bdebc9b6cb)
+![06](https://github.com/Luiz17eg/literatura/assets/85706841/7b54eb5b-6265-4b6a-823a-b27cddcf82c3)
+![07](https://github.com/Luiz17eg/literatura/assets/85706841/a9ce6eda-f669-40e0-9a18-8ba13f1bd1cb)
+![08](https://github.com/Luiz17eg/literatura/assets/85706841/ea3be119-4361-4c0d-8960-7069b430e271)
+![09](https://github.com/Luiz17eg/literatura/assets/85706841/0aaa913c-2968-4348-879c-33c7fe6ba0fb)
+![10](https://github.com/Luiz17eg/literatura/assets/85706841/4e3c6053-61d5-436a-8d1a-9edc101f00e9)
 
-![2](https://github.com/Luiz17eg/conversormonedasapi/assets/85706841/832c8c8b-cd8c-4bfa-9ee1-f695b4adb563)
 
 ## Acceso al Proyecto
 
@@ -44,4 +52,4 @@ El código fuente está disponible en [GitHub](https://github.com/Luiz17eg/liter
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](https://github.com/Luiz17eg/conversormonedasapi/blob/main/LICENSE).
+Este proyecto está licenciado bajo la [Licencia MIT](https://github.com/Luiz17eg/literatura/blob/main/LICENSE).
