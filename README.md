@@ -35,8 +35,8 @@ El código fuente está disponible en [GitHub](https://github.com/Luiz17eg/liter
 ## Tecnologías Utilizadas
 
 - Java
-- Gson
-- HTTP Client
+- Spring Boot
+- PostgreSQL
 
 ## Personas Contribuyentes
 
